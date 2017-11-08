@@ -99,3 +99,12 @@ in the given seed set using RWR.
 
 Implement a program which, given all the information available about the set of movies a given user has watched, recommends the user 5 more movies to watch.
 
+Import the excel file into the tables:
+- mlmovies(movieId, movieName, genres)  - mlmovies (pandas library)
+– mltags(userId,movieId,tagid,timestamp) – mltags (pandas library)
+– mlratings(movieId,userId,imdbId,rating,timestamp) – mlratings (pandas library)
+– genome-tags(tagId, tag) – genome_tags (pandas library)
+– movie-actor (movieId, actorId, actorMovieRank) – movie_actor (pandas library)
+– imdb-actor-info (actorId, name, gender) – imdb_actor_info (pandas library)
+– mlusers(userId) – mlusers (pandas library)
+
