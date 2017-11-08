@@ -1,0 +1,835 @@
+movieid,moviename,genres
+3961,"Antitrust (2001)",Thriller
+3962,"Double Take (2001)",Action|Comedy
+3963,"Save the Last Dance (2001)",Drama|Romance
+3977,"Sugar & Spice (2001)",Comedy
+4050,"Head Over Heels (2001)",Comedy|Romance
+4052,"Valentine (2001)",Horror|Mystery
+4057,"Hannibal (2001)",Horror|Thriller
+4058,"Saving Silverman (2001)",Comedy
+4062,"Down to Earth (2001)",Comedy|Romance
+4063,"Recess: School's Out (2001)",Animation|Children
+4064,"Sweet November (2001)",Drama|Romance
+4067,"Monkeybone (2001)",Animation|Comedy
+4068,"3000 Miles to Graceland (2001)",Action|Thriller
+4071,"See Spot Run (2001)",Comedy
+4072,"Carman: The Champion (2001)",Action|Drama
+4075,"Series 7: The Contenders (2001)",Action|Drama
+4076,"15 Minutes (2001)",Thriller
+4077,"Get Over It (2001)",Comedy|Romance
+4132,"Enemy at the Gates (2001)",Drama|War
+4133,"Exit Wounds (2001)",Action|Thriller
+4138,"Say It Isn't So (2001)",Comedy|Romance
+4141,"Spy Kids (2001)",Action|Adventure|Children|Comedy
+4142,"Tomcats (2001)",Comedy
+4147,"Along Came a Spider (2001)",Action|Crime|Mystery|Thriller
+4148,"Blow (2001)",Drama
+4149,"Just Visiting (2001)",Comedy|Fantasy
+4152,"Brigham City (2001)",Crime|Drama|Mystery
+4155,"Bridget Jones's Diary (2001)",Comedy|Drama|Romance
+4156,"Joe Dirt (2001)",Comedy
+4157,"Josie and the Pussycats (2001)",Comedy
+4158,"Kingdom Come (2001)",Comedy
+4163,"Crocodile Dundee in Los Angeles (2001)",Comedy|Drama
+4164,"Freddy Got Fingered (2001)",Comedy
+4173,"Driven (2001)",Action|Thriller
+4175,"One Night at McCool's (2001)",Comedy
+4176,"Town & Country (2001)",Comedy
+4212,"Startup.com (2001)",Documentary
+4213,"Angel Eyes (2001)",Drama|Romance|Thriller
+4214,"Shrek (2001)",Adventure|Animation|Children|Comedy|Fantasy|Romance
+4223,"Gabriela (2001)",Comedy|Drama|Romance
+4249,"What's the Worst That Could Happen? (2001)",Comedy
+4252,"Swordfish (2001)",Action|Crime|Drama
+4254,"Bride of the Wind (2001)",Drama|Musical|Romance
+4274,"Atlantis: The Lost Empire (2001)",Animation|Children|Fantasy
+4275,"Lara Croft: Tomb Raider (2001)",Action|Adventure
+4276,"Dr. Dolittle 2 (2001)",Comedy
+4279,"Baby Boy (2001)",Crime|Drama
+4280,"Crazy/Beautiful (2001)",Drama|Romance
+4281,"Pootie Tang (2001)",Comedy
+4294,"Cats & Dogs (2001)",Children|Comedy
+4295,"Kiss of the Dragon (2001)",Action
+4296,"Scary Movie 2 (2001)",Comedy|Horror
+4297,"Lost and Delirious (2001)",Drama
+4354,"Final Fantasy: The Spirits Within (2001)",Adventure|Animation|Fantasy|Sci-Fi
+4355,"Legally Blonde (2001)",Comedy
+4358,"Bully (2001)",Crime|Drama|Thriller
+4359,"Jump Tomorrow (2001)",Comedy|Drama|Romance
+4360,"Made (2001)",Comedy
+4364,"Haunted Castle (2001)",Animation|Horror|IMAX
+4546,"Jurassic Park III (2001)",Action|Adventure|Sci-Fi
+4547,"America's Sweethearts (2001)",Comedy|Romance
+4549,"Ghost World (2001)",Comedy|Drama
+4551,"Planet of the Apes (2001)",Action|Adventure|Drama|Sci-Fi
+4555,"Jackpot (2001)",Drama
+4557,"Wet Hot American Summer (2001)",Comedy
+4607,"Original Sin (2001)",Drama|Romance|Thriller
+4609,"Rush Hour 2 (2001)",Action|Comedy
+4626,"American Pie 2 (2001)",Comedy
+4627,"Osmosis Jones (2001)",Comedy
+4629,"American Outlaws (2001)",Action|Comedy|Western
+4630,"All Over the Guy (2001)",Comedy
+4633,"Session 9 (2001)",Horror|Thriller
+4635,"Captain Corelli's Mandolin (2001)",Drama|Romance|War
+4636,"Rat Race (2001)",Comedy
+4639,"Bubble Boy (2001)",Comedy
+4641,"Jay and Silent Bob Strike Back (2001)",Comedy
+4643,"Summer Catch (2001)",Comedy|Romance
+4650,"Tortilla Soup (2001)",Comedy|Romance
+4651,"Jeepers Creepers (2001)",Horror
+4653,"Waking Up in Reno (2002)",Comedy|Romance
+4664,"Rock Star (2001)",Drama|Musical
+4666,"Two Can Play That Game (2001)",Comedy|Drama
+4671,"Kill Me Later (2001)",Romance|Thriller
+4672,"L.I.E. (2001)",Drama
+4680,"Haiku Tunnel (2001)",Comedy
+4681,"Big Trouble (2002)",Comedy|Crime
+4682,"Glitter (2001)",Drama|Musical|Romance
+4683,"Training Day (2001)",Crime|Drama|Thriller
+4688,"Megiddo: The Omega Code 2 (2001)",Thriller
+4689,"Sidewalks of New York (2001)",Comedy|Romance
+4721,"Don't Say a Word (2001)",Thriller
+4722,"Hearts in Atlantis (2001)",Drama
+4723,"Zoolander (2001)",Comedy
+4728,"Joy Ride (2001)",Adventure|Thriller
+4729,"Max Keeble's Big Move (2001)",Children|Comedy
+4730,"Serendipity (2001)",Comedy|Romance
+4751,"Bandits (2001)",Comedy|Crime|Romance
+4752,"Corky Romano (2001)",Comedy|Crime
+4756,"My First Mister (2001)",Comedy|Drama
+4758,"Things Behind the Sun (2001)",Drama
+4772,"From Hell (2001)",Crime|Horror|Mystery|Thriller
+4774,"Riding in Cars with Boys (2001)",Comedy|Drama
+4778,"Focus (2001)",Drama
+4780,"Waking Life (2001)",Animation|Drama|Fantasy
+4781,"K-PAX (2001)",Drama|Fantasy|Mystery|Sci-Fi
+4782,"On the Line (2001)",Comedy|Romance
+4785,"Donnie Darko (2001)",Drama|Mystery|Sci-Fi|Thriller
+4786,"High Heels and Low Lifes (2001)",Comedy|Crime|Drama
+4787,"Life as a House (2001)",Comedy|Drama
+4792,"Domestic Disturbance (2001)",Thriller
+4793,"Monsters, Inc. (2001)",Animation|Children|Comedy|Fantasy
+4795,"Tape (2001)",Drama
+4796,"Heist (2001)",Crime|Drama
+4797,"Shallow Hal (2001)",Comedy|Fantasy|Romance
+4805,"Novocaine (2001)",Comedy|Crime|Mystery|Thriller
+4807,"Out Cold (2001)",Comedy
+4808,"Spy Game (2001)",Action|Crime|Drama|Thriller
+4810,"In the Bedroom (2001)",Drama
+4865,"Behind Enemy Lines (2001)",Action|Drama|War
+4869,"Texas Rangers (2001)",Adventure|Western
+4870,"Ocean's Eleven (2001)",Comedy|Crime|Thriller
+4871,"Baran (2001)",Adventure|Drama|Romance
+4874,"No Man's Land (2001)",Drama
+4881,"Not Another Teen Movie (2001)",Comedy
+4882,"Vanilla Sky (2001)",Drama|Romance|Thriller
+4885,"Lantana (2001)",Drama|Mystery|Thriller
+4896,"How High (2001)",Comedy
+4897,"Jimmy Neutron: Boy Genius (2001)",Adventure|Animation|Children|Comedy
+4898,"Joe Somebody (2001)",Comedy|Drama|Romance
+4899,"Kate & Leopold (2001)",Comedy|Romance
+4917,"Black Hawk Down (2001)",Action|Drama|War
+4918,"Charlotte Gray (2001)",Drama|Romance
+4920,"Gosford Park (2001)",Comedy|Drama|Mystery
+4921,"I Am Sam (2001)",Comedy|Drama
+4922,"Monster's Ball (2001)",Drama|Romance
+4932,"Orange County (2002)",Comedy
+4954,"Kung Pow: Enter the Fist (2002)",Action|Comedy
+4955,"Snow Dogs (2002)",Comedy
+4980,"Storytelling (2001)",Comedy|Drama
+4986,"Slackers (2002)",Comedy
+4987,"Birthday Girl (2001)",Drama|Romance
+4989,"Rare Birds (2001)",Comedy|Drama
+4998,"Big Fat Liar (2002)",Children|Comedy
+4999,"Collateral Damage (2002)",Action|Thriller
+5000,"Rollerball (2002)",Action|Sci-Fi
+5001,"Scotland, Pa. (2001)",Comedy|Crime
+5013,"Hart's War (2002)",Drama|War
+5014,"John Q (2002)",Drama|Thriller
+5015,"Return to Never Land (2002)",Adventure|Animation|Children
+5016,"Super Troopers (2001)",Comedy|Crime
+5018,"Last Orders (2001)",Drama
+5034,"Queen of the Damned (2002)",Fantasy|Horror
+5035,"Big Bad Love (2001)",Drama
+5036,"Green Dragon (2001)",Drama
+5040,"Mean Machine (2001)",Comedy|Drama
+5041,"Monsoon Wedding (2001)",Comedy|Romance
+5042,"Wendigo (2001)",Drama|Horror
+5044,"State Property (2002)",Action|Crime|Drama
+5057,"40 Days and 40 Nights (2002)",Comedy|Romance
+5058,"We Were Soldiers (2002)",Action|Drama|War
+5059,"Trouble Every Day (2001)",Drama|Horror|Thriller
+5076,"All About the Benjamins (2002)",Action|Comedy|Crime
+5078,"Full Frontal (2002)",Comedy|Drama|Romance
+5123,"Ice Age (2002)",Adventure|Animation|Children|Comedy
+5125,"Showtime (2002)",Action|Comedy
+5127,"Kissing Jessica Stein (2001)",Comedy|Romance
+5159,"Blade II (2002)",Action|Horror|Thriller
+5160,"Sorority Boys (2002)",Comedy
+5161,"Stolen Summer (2002)",Drama
+5169,"Clockstoppers (2002)",Action|Sci-Fi
+5170,"Death to Smoochy (2002)",Comedy
+5171,"Panic Room (2002)",Thriller
+5173,"No Such Thing (2001)",Drama|Fantasy|Romance
+5176,"30 Years to Life (2001)",Comedy|Drama|Romance
+5178,"Very Annie Mary (2001)",Comedy|Musical
+5187,"High Crimes (2002)",Thriller
+5188,"Van Wilder (2002)",Comedy
+5190,"Lucky Break (2001)",Comedy|Crime
+5198,"Changing Lanes (2002)",Drama|Thriller
+5199,"Frailty (2001)",Thriller
+5200,"New Best Friend (2002)",Drama|Thriller
+5203,"Human Nature (2001)",Comedy|Romance
+5204,"My Big Fat Greek Wedding (2002)",Comedy|Romance
+5217,"Murder by Numbers (2002)",Crime|Thriller
+5220,"Chelsea Walls (2001)",Drama
+5223,"Joshua (2001)",Drama
+5227,"World Traveler (2001)",Drama
+5229,"Life or Something Like It (2002)",Comedy|Romance
+5231,"Frank McKlusky, C.I. (2002)",Comedy
+5233,"Rain (2001)",Drama|Romance
+5235,"Some Body (2001)",Drama
+5252,"Deuces Wild (2002)",Drama
+5253,"Hollywood Ending (2002)",Comedy|Drama
+5254,"Spider-Man (2002)",Action|Adventure|Sci-Fi|Thriller
+5269,"Unfaithful (2002)",Drama|Thriller
+5282,"About a Boy (2002)",Comedy|Drama
+5283,"Star Wars: Episode II - Attack of the Clones (2002)",Action|Adventure|Sci-Fi
+5292,"Enough (2002)",Drama|Thriller
+5293,"Insomnia (2002)",Action|Crime|Drama|Mystery|Thriller
+5294,"Spirit: Stallion of the Cimarron (2002)",Animation|Children|Western
+5295,"CQ (2001)",Drama
+5306,"Undercover Brother (2002)",Comedy
+5319,"Bad Company (2002)",Action|Comedy|Crime
+5320,"Divine Secrets of the Ya-Ya Sisterhood (2002)",Comedy|Drama
+5321,"Cherish (2002)",Comedy|Drama|Thriller
+5324,"Scooby-Doo (2002)",Adventure|Children|Comedy
+5325,"Windtalkers (2002)",Action|Drama|War
+5329,"Harvard Man (2001)",Crime|Drama|Romance|Thriller
+5348,"Juwanna Mann (2002)",Comedy
+5349,"Lilo & Stitch (2002)",Animation|Children
+5350,"Minority Report (2002)",Action|Crime|Mystery|Sci-Fi|Thriller
+5351,"Rabbit-Proof Fence (2002)",Adventure|Drama
+5352,"Sunshine State (2002)",Drama
+5353,"Hey Arnold! The Movie (2002)",Animation|Children
+5354,"Mr. Deeds (2002)",Comedy|Romance
+5355,"Lovely & Amazing (2001)",Comedy
+5356,"Pumpkin (2002)",Comedy|Drama|Romance
+5363,"Like Mike (2002)",Children|Comedy|Fantasy
+5364,"Men in Black II (2002)",Action|Comedy|Sci-Fi
+5366,"Me Without You (2001)",Comedy|Drama
+5368,"Reign of Fire (2002)",Action|Adventure|Fantasy|Sci-Fi
+5369,"Road to Perdition (2002)",Crime|Drama
+5372,"Never Again (2001)",Comedy|Romance
+5381,"Halloween: Resurrection (2002)",Horror|Thriller
+5383,"Eight Legged Freaks (2002)",Action|Comedy|Horror|Sci-Fi
+5384,"K-19: The Widowmaker (2002)",Action|Adventure|Drama|Thriller
+5385,"Stuart Little 2 (2002)",Children|Comedy
+5386,"Austin Powers in Goldmember (2002)",Comedy
+5391,"Who Is Cletis Tout? (2001)",Comedy
+5407,"Signs (2002)",Sci-Fi|Thriller
+5411,"Blood Work (2002)",Crime|Drama|Mystery|Thriller
+5413,"24 Hour Party People (2002)",Comedy|Drama|Musical
+5414,"Biggie and Tupac (2002)",Documentary
+5416,"Pandora's Box (2002)",Drama|Thriller
+5418,"Martin Lawrence Live: Runteldat (2002)",Comedy|Documentary
+5419,"Lan Yu (2001)",Drama|Romance
+5429,"Blue Crush (2002)",Adventure|Drama|Romance
+5432,"Possession (2002)",Drama|Romance
+5433,"One Hour Photo (2002)",Drama|Thriller
+5434,"Serving Sara (2002)",Comedy|Romance
+5436,"Undisputed (2002)",Drama
+5438,"Children On Their Birthdays (2002)",Drama
+5439,"Hush! (2001)",Drama
+5442,"Satin Rouge (2002)",Drama|Musical
+5463,"Love and a Bullet (2002)",Action|Crime
+5467,"Snipes (2001)",Drama|Thriller
+5468,"City by the Sea (2002)",Crime|Drama
+5469,"Swimfan (2002)",Thriller
+5471,"Heartbreak Hospital (2002)",Comedy|Thriller
+5477,"Barbershop (2002)",Comedy|Crime
+5478,"Stealing Harvard (2002)",Comedy|Crime
+5482,"Igby Goes Down (2002)",Comedy|Drama
+5512,"Ballistic: Ecks vs. Sever (2002)",Action|Sci-Fi|Thriller
+5515,"Trapped (2002)",Action|Thriller
+5518,"Invincible (2001)",Drama
+5520,"Secretary (2002)",Comedy|Drama|Romance
+5523,"Sweet Home Alabama (2002)",Comedy|Romance
+5525,"Charly (2002)",Comedy|Drama|Romance
+5526,"Crazy as Hell (2002)",Drama
+5527,"Just a Kiss (2002)",Comedy|Romance
+5528,"Moonlight Mile (2002)",Drama|Romance
+5530,"Skins (2002)",Crime|Drama
+5531,"Wasabi (2001)",Action|Comedy|Drama
+5532,"Jonah: A VeggieTales Movie (2002)",Animation|Children|Musical
+5533,"Red Dragon (2002)",Crime|Mystery|Thriller
+5534,"Between Strangers (2002)",Drama
+5535,"Bloody Sunday (2002)",Drama
+5536,"Heaven (2002)",Drama
+5537,"Pipe Dream (2002)",Drama
+5539,"Welcome to Collinwood (2002)",Comedy
+5559,"Festival in Cannes (2001)",Drama
+5567,"Brown Sugar (2002)",Romance
+5570,"Tuck Everlasting (2002)",Drama|Fantasy
+5571,"White Oleander (2002)",Drama
+5572,"Bowling for Columbine (2002)",Documentary
+5573,"Comedian (2002)",Comedy|Documentary
+5576,"Punch-Drunk Love (2002)",Comedy|Drama|Romance|Thriller
+5578,"Swept Away (2002)",Comedy|Romance
+5580,"Abandon (2002)",Drama|Thriller
+5583,"Auto Focus (2002)",Crime|Drama
+5584,"Fidel (2001)",Documentary
+5586,"Hansel & Gretel (2002)",Children|Fantasy
+5588,"Real Women Have Curves (2002)",Comedy|Drama
+5686,"Derrida (2002)",Documentary
+5687,"Ghost Ship (2002)",Horror
+5688,"Jackass: The Movie (2002)",Action|Comedy
+5689,"Paid in Full (2002)",Action|Drama
+5691,"All or Nothing (2002)",Comedy|Drama
+5692,"All the Queen's Men (2001)",Comedy|War
+5694,"Frida (2002)",Drama|Romance
+5695,"Roger Dodger (2002)",Comedy|Drama
+5696,"Time Changer (2002)",Drama|Sci-Fi
+5701,"Escanaba in da Moonlight (2001)",Comedy
+5706,"I Spy (2002)",Action|Adventure|Comedy|Crime
+5708,"Besotted (2001)",Drama
+5710,"Love In the Time of Money (2002)",Comedy|Drama
+5712,"Femme Fatale (2002)",Crime|Thriller
+5713,"8 Mile (2002)",Drama
+5715,"Far from Heaven (2002)",Drama|Romance
+5718,"Half Past Dead (2002)",Action|Crime|Thriller
+5720,"Ararat (2002)",Drama
+5722,"Interview with the Assassin (2002)",Drama
+5723,"Standing in the Shadows of Motown (2002)",Documentary
+5727,"Liberty Stands Still (2002)",Action|Drama|Thriller
+5732,"Men with Brooms (2002)",Comedy|Drama|Romance
+5734,"Soul Assassin (2001)",Action|Crime|Thriller
+5735,"Left Behind II: Tribulation Force (2002)",Drama
+5736,"Dog Soldiers (2002)",Action|Horror
+5773,"Revolution #9 (2001)",Thriller
+5775,"Die Another Day (2002)",Action|Adventure|Thriller
+5777,"Friday After Next (2002)",Comedy
+5782,"Extreme Ops (2002)",Action|Adventure|Crime|Thriller
+5783,"Solaris (2002)",Drama|Romance|Sci-Fi
+5784,"Treasure Planet (2002)",Adventure|Animation|Children|Sci-Fi
+5785,"They (2002)",Horror|Thriller
+5792,"Elling (2001)",Comedy|Drama
+5802,"Analyze That (2002)",Comedy
+5805,"Equilibrium (2002)",Action|Sci-Fi|Thriller
+5806,"My Kingdom (2001)",Drama
+5842,"Drumline (2002)",Comedy|Drama|Musical|Romance
+5844,"Maid in Manhattan (2002)",Comedy|Romance
+5845,"Star Trek: Nemesis (2002)",Action|Drama|Sci-Fi|Thriller
+5846,"About Schmidt (2002)",Comedy|Drama
+5848,"Evelyn (2002)",Drama
+5852,"Morvern Callar (2002)",Drama
+5855,"25th Hour (2002)",Crime|Drama
+5856,"Antwone Fisher (2002)",Drama
+5857,"Gangs of New York (2002)",Crime|Drama
+5858,"Two Weeks Notice (2002)",Comedy|Romance
+5860,"Narc (2002)",Crime|Drama|Thriller
+5890,"Catch Me If You Can (2002)",Crime|Drama
+5891,"Pinocchio (2002)",Children|Comedy|Fantasy
+5895,"Nicholas Nickleby (2002)",Adventure|Drama
+5897,"Sonny (2002)",Crime|Drama
+5903,"Love Liza (2002)",Drama
+5904,"Confessions of a Dangerous Mind (2002)",Action|Comedy|Drama
+5906,"Blue Collar Comedy Tour: The Movie (2003)",Comedy|Documentary
+5907,"Just Married (2003)",Comedy|Romance
+5911,"Double Whammy (2001)",Action|Comedy|Drama
+5912,"Wisegirls (2002)",Crime|Drama
+5914,"Kangaroo Jack (2003)",Action|Comedy
+5915,"National Security (2003)",Action|Comedy
+5941,"Darkness Falls (2003)",Horror|Thriller
+5942,"Amen. (2002)",Drama
+5958,"Biker Boyz (2003)",Action|Crime|Drama
+5959,"Final Destination 2 (2003)",Horror|Thriller
+5962,"Kedma (2002)",Drama|War
+5963,"Lost In La Mancha (2002)",Documentary
+5964,"May (2002)",Drama|Horror
+6055,"Deliver Us from Eva (2003)",Comedy|Romance
+6056,"How to Lose a Guy in 10 Days (2003)",Comedy|Romance
+6057,"Shanghai Knights (2003)",Action|Adventure|Comedy
+6058,"Daredevil (2003)",Action|Crime|Fantasy
+6060,"All the Real Girls (2003)",Drama|Romance
+6063,"Gerry (2002)",Adventure|Drama
+6066,"Ordinary Sinner (2001)",Drama|Romance
+6087,"Gods and Generals (2003)",Action|Drama|War
+6089,"Old School (2003)",Comedy
+6090,"Dischord (2001)",Drama|Thriller
+6094,"Poolhall Junkies (2002)",Comedy|Drama|Thriller
+6097,"Cradle 2 the Grave (2003)",Action|Crime|Thriller
+6098,"Spider (2002)",Drama|Mystery
+6113,"Bringing Down the House (2003)",Comedy
+6114,"Tears of the Sun (2003)",Action|Drama|Thriller
+6116,"Laurel Canyon (2002)",Drama
+6119,"Bend It Like Beckham (2002)",Adventure|Comedy|Drama|Romance
+6121,"Willard (2003)",Horror
+6122,"Gaudi Afternoon (2001)",Comedy|Drama|Mystery
+6123,"Prozac Nation (2001)",Drama
+6151,"Dreamcatcher (2003)",Comedy|Horror|Sci-Fi
+6152,"Piglet's Big Movie (2003)",Animation|Children
+6163,"Basic (2003)",Drama|Thriller
+6165,"Head of State (2003)",Comedy
+6166,"What a Girl Wants (2003)",Comedy|Drama|Romance
+6167,"Assassination Tango (2002)",Drama|Thriller
+6168,"Raising Victor Vargas (2002)",Comedy|Drama|Romance
+6169,"Stevie (2002)",Documentary
+6181,"Phone Booth (2002)",Drama|Thriller
+6184,"DysFunktional Family (2003)",Comedy|Documentary
+6185,"Levity (2003)",Drama
+6187,"Anger Management (2003)",Comedy
+6188,"Better Luck Tomorrow (2002)",Crime|Drama
+6189,"Ghosts of the Abyss (2003)",Documentary|IMAX
+6190,"House of 1000 Corpses (2003)",Horror
+6192,"Marion Bridge (2002)",Drama
+6193,"XX/XY (2002)",Drama|Romance
+6194,"Bulletproof Monk (2003)",Action|Adventure|Sci-Fi
+6198,"Malibu's Most Wanted (2003)",Comedy|Crime
+6206,"I Am Trying to Break Your Heart (2002)",Documentary
+6222,"Confidence (2003)",Crime|Drama|Thriller
+6223,"Identity (2003)",Crime|Horror|Mystery|Thriller
+6224,"It Runs in the Family (2003)",Comedy|Drama
+6226,"City of Ghosts (2002)",Crime|Drama|Thriller
+6229,"Manic (2001)",Drama
+6230,"People I Know (2002)",Crime|Drama
+6231,"Spellbound (2002)",Comedy|Documentary
+6234,"Blue Car (2002)",Drama
+6237,"Owning Mahowny (2003)",Crime|Drama|Thriller
+6238,"Daddy Day Care (2003)",Children|Comedy
+6243,"Washington Heights (2002)",Drama|Romance
+6261,"Down with Love (2003)",Comedy|Romance
+6262,"Cinemania (2002)",Documentary
+6263,"Friends and Family (2001)",Comedy
+6266,"Bruce Almighty (2003)",Comedy
+6268,"Gigantic (A Tale of Two Johns) (2002)",Documentary
+6269,"Respiro (2002)",Comedy|Drama
+6270,"Finding Nemo (2003)",Adventure|Animation|Children|Comedy
+6273,"Capturing the Friedmans (2003)",Documentary
+6277,"Love the Hard Way (2001)",Crime|Drama|Romance
+6278,"Whale Rider (2002)",Drama
+6371,"Dumb and Dumberer: When Harry Met Lloyd (2003)",Comedy
+6372,"From Justin to Kelly (2003)",Musical|Romance
+6373,"Hollywood Homicide (2003)",Action|Crime|Drama
+6379,"Manito (2002)",Drama
+6380,"No Turning Back (2001)",Adventure|Drama|Thriller
+6392,"Charlie's Angels: Full Throttle (2003)",Action|Adventure|Comedy|Crime|Thriller
+6423,"Hulk (2003)",Action|Adventure|Sci-Fi
+6424,"Legally Blonde 2: Red, White & Blonde (2003)",Comedy
+6425,"Sinbad: Legend of the Seven Seas (2003)",Adventure|Animation|Children|Comedy
+6426,"Terminator 3: Rise of the Machines (2003)",Action|Adventure|Sci-Fi
+6427,"Swimming Pool (2003)",Drama|Mystery|Thriller
+6428,"Pirates of the Caribbean: The Curse of the Black Pearl (2003)",Action|Adventure|Comedy|Fantasy
+6434,"I Capture the Castle (2003)",Drama|Romance
+6436,"Northfork (2003)",Drama|Fantasy
+6437,"Bad Boys II (2003)",Action|Comedy|Crime|Thriller
+6438,"How to Deal (2003)",Comedy|Drama|Romance
+6439,"Johnny English (2003)",Action|Comedy|Thriller
+6441,"Dirty Pretty Things (2002)",Drama|Thriller
+6443,"Garage Days (2002)",Comedy|Musical
+6453,"Lara Croft Tomb Raider: The Cradle of Life (2003)",Action|Adventure|Comedy|Romance|Thriller
+6454,"Seabiscuit (2003)",Drama
+6455,"Spy Kids 3-D: Game Over (2003)",Action|Adventure|Children
+6456,"Buffalo Soldiers (2001)",Comedy|Crime|Drama|War
+6475,"American Wedding (2003)",Comedy
+6476,"Gigli (2003)",Action|Crime|Drama
+6478,"Boys Life 4: Four Play (2003)",Comedy|Drama
+6479,"I'll Be There (2003)",Comedy|Musical|Romance
+6482,"Freaky Friday (2003)",Comedy|Drama
+6484,"S.W.A.T. (2003)",Action|Thriller
+6495,"Purpose (2002)",Drama
+6504,"Freddy Vs. Jason (2003)",Action|Horror|Thriller
+6505,"Grind (2003)",Action|Comedy
+6506,"Open Range (2003)",Western
+6508,"Uptown Girls (2003)",Comedy
+6509,"American Splendor (2003)",Comedy|Drama
+6512,"Passionada (2002)",Comedy|Romance
+6513,"Agent Cody Banks (2003)",Action|Adventure|Children|Fantasy
+6540,"Ash Wednesday (2002)",Crime|Drama
+6561,"War Photographer (2001)",Documentary
+6568,"Revolution OS (2001)",Documentary
+6574,"Marci X (2003)",Comedy|Musical
+6576,"My Boss's Daughter (2003)",Comedy|Romance
+6581,"Stoked: The Rise and Fall of Gator (2002)",Documentary
+6585,"Bollywood/Hollywood (2002)",Comedy|Drama|Musical|Romance
+6586,"Civil Brand (2002)",Drama
+6588,"Once Upon a Time in the Midlands (2002)",Drama
+6591,"Dickie Roberts: Former Child Star (2003)",Comedy
+6593,"Home Room (2002)",Drama
+6594,"Party Monster (2003)",Comedy|Crime|Drama|Thriller
+6595,"Taking Sides (2001)",Drama
+6596,"Cabin Fever (2002)",Horror|Thriller
+6597,"Matchstick Men (2003)",Comedy|Crime|Drama
+6598,"Once Upon a Time in Mexico (2003)",Action|Adventure|Crime|Thriller
+6599,"Dummy (2002)",Comedy|Drama|Romance
+6600,"Lost in Translation (2003)",Comedy|Drama|Romance
+6601,"Luster (2002)",Comedy|Drama|Romance
+6626,"Super Sucker (2002)",Comedy
+6639,"Anything Else (2003)",Comedy|Drama|Romance
+6640,"Cold Creek Manor (2003)",Drama|Thriller
+6642,"Secondhand Lions (2003)",Adventure|Children|Comedy|Drama
+6643,"Underworld (2003)",Action|Fantasy|Horror
+6644,"Bubba Ho-tep (2002)",Comedy|Horror
+6645,"Casa de los babys (2003)",Drama
+6646,"Demonlover (2002)",Crime|Drama|Mystery|Thriller
+6649,"In This World (2002)",Adventure|Drama
+6651,"Yossi & Jagger (2002)",Drama|Romance
+6652,"Duplex (2003)",Comedy|Crime
+6654,"Under the Tuscan Sun (2003)",Comedy|Drama|Romance
+6657,"Luther (2003)",Drama
+6658,"Mambo Italiano (2003)",Comedy
+6659,"My Life Without Me (2003)",Drama|Romance
+6664,"Life and Debt (2001)",Documentary
+6665,"Lagaan: Once Upon a Time in India (2001)",Comedy|Drama|Musical|Romance
+6679,"Avalon (2001)",Drama|Fantasy|Sci-Fi
+6720,"Nobody's Baby (2001)",Comedy
+6750,"Charlotte Sometimes (2002)",Drama|Romance
+6752,"School of Rock (2003)",Comedy|Musical
+6757,"Wonderland (2003)",Crime|Drama|Mystery|Thriller
+6759,"Mystic River (2003)",Crime|Drama|Mystery
+6760,"Good Boy! (2003)",Children|Comedy|Sci-Fi
+6762,"Intolerable Cruelty (2003)",Comedy|Romance
+6763,"Kill Bill: Vol. 1 (2003)",Action|Crime|Thriller
+6764,"Dopamine (2003)",Comedy|Drama|Romance
+6766,"Girls Will Be Girls (2003)",Comedy
+6768,"Runaway Jury (2003)",Drama|Thriller
+6770,"Pieces of April (2003)",Comedy|Drama
+6773,"Veronica Guerin (2003)",Crime|Drama|Thriller
+6774,"In the Cut (2003)",Crime|Drama|Mystery|Romance|Thriller
+6775,"Beyond Borders (2003)",Drama|Romance|War
+6776,"Radio (2003)",Drama
+6777,"Scary Movie 3 (2003)",Comedy|Horror
+6778,"Brother Bear (2003)",Adventure|Animation|Children
+6780,"Gypsy 83 (2001)",Drama
+6786,"Unconditional Love (2002)",Comedy|Drama
+6816,"Dirt (2001)",Comedy|Crime
+6818,"Mail Order Bride (2003)",Comedy
+6819,"Shattered Glass (2003)",Crime|Drama
+6820,"Suspended Animation (2001)",Thriller
+6829,"Love Actually (2003)",Comedy|Drama|Romance
+6833,"Looney Tunes: Back in Action (2003)",Action|Animation|Children|Fantasy
+6834,"Master and Commander: The Far Side of the World (2003)",Action|Adventure|Drama|War
+6835,"Tupac: Resurrection (2003)",Documentary
+6839,"Gothika (2003)",Horror|Thriller
+6840,"21 Grams (2003)",Drama|Mystery|Romance
+6844,"Bad Santa (2003)",Comedy|Crime
+6846,"Timeline (2003)",Adventure|Fantasy|Sci-Fi
+6849,"OT: Our Town (2002)",Documentary
+6850,"Devil's Playground (2002)",Documentary
+6852,"Journeys with George (2002)",Documentary
+6983,"Rivers and Tides (2001)",Documentary
+7029,"Honey (2003)",Drama|Romance
+7032,"Prisoner of Paradise (2002)",Documentary
+7033,"What Alice Found (2003)",Crime|Drama
+7034,"Big Fish (2003)",Drama|Fantasy|Romance
+7035,"Love Don't Cost a Thing (2003)",Drama|Romance
+7036,"Something's Gotta Give (2003)",Comedy|Drama|Romance
+7037,"Stuck On You (2003)",Comedy
+7038,"Girl with a Pearl Earring (2003)",Drama|Romance
+7041,"Mona Lisa Smile (2003)",Comedy|Drama|Romance
+7042,"Calendar Girls (2003)",Comedy
+7045,"House of Sand and Fog (2003)",Drama
+7047,"Monster (2003)",Crime|Drama|Romance|Thriller
+7048,"Cheaper by the Dozen (2003)",Comedy|Drama
+7049,"Cold Mountain (2003)",Drama|Romance|War
+7050,"Paycheck (2003)",Action|Sci-Fi|Thriller
+7051,"Peter Pan (2003)",Action|Adventure|Children|Fantasy
+7054,"Japanese Story (2003)",Drama
+7056,"Chasing Liberty (2004)",Comedy|Romance
+7057,"My Baby's Daddy (2004)",Comedy
+7058,"Aileen: Life and Death of a Serial Killer (2003)",Documentary
+7060,"Along Came Polly (2004)",Comedy|Romance
+7061,"Teacher's Pet (2004)",Animation|Children
+7062,"Torque (2004)",Action|Crime
+7064,"Osama (2003)",Drama
+7086,"Melvin Goes to Dinner (2003)",Comedy|Drama
+7088,"Crime Spree (2003)",Comedy|Crime
+7089,"Beyond Re-Animator (2003)",Horror
+7142,"Win a Date with Tad Hamilton! (2004)",Comedy|Romance
+7143,"Touching the Void (2003)",Adventure|Documentary
+7146,"You Got Served (2004)",Drama|Musical
+7147,"Latter Days (2003)",Comedy|Drama|Romance
+7148,"Barbershop 2: Back in Business (2004)",Comedy
+7149,"Catch That Kid (2004)",Action|Adventure|Children|Comedy|Crime
+7165,"Daddy and Them (2001)",Comedy|Drama
+7172,"Thirteen (2003)",Drama
+7180,"50 First Dates (2004)",Comedy|Romance
+7181,"Welcome to Mooseport (2004)",Comedy
+7183,"Face (2002)",Comedy
+7201,"Robot Stories (2003)",Drama|Sci-Fi
+7202,"Against the Ropes (2004)",Comedy|Drama
+7203,"Confessions of a Teenage Drama Queen (2004)",Comedy
+7204,"Eurotrip (2004)",Adventure|Comedy
+7206,"Club Dread (2004)",Comedy|Horror
+7207,"Dirty Dancing: Havana Nights (2004)",Romance
+7209,"Alila (2003)",Drama
+7211,"Hidalgo (2004)",Action|Adventure|Drama|Western
+7212,"Starsky & Hutch (2004)",Action|Comedy|Crime
+7224,"American Gun (2002)",Drama
+7232,"Agent Cody Banks 2: Destination London (2004)",Action|Adventure|Children|Comedy
+7234,"Secret Window (2004)",Mystery|Thriller
+7235,"Spartan (2004)",Thriller
+7238,"How to Draw a Bunny (2002)",Documentary
+7239,"Wilbur Wants to Kill Himself (2002)",Comedy|Drama
+7247,"Dawn of the Dead (2004)",Action|Drama|Horror|Thriller
+7248,"Eternal Sunshine of the Spotless Mind (2004)",Comedy|Drama|Romance|Sci-Fi
+7249,"Taking Lives (2004)",Crime|Drama|Thriller
+7251,"Intermission (2003)",Comedy|Crime|Drama
+7253,"Jersey Girl (2004)",Comedy|Drama|Romance
+7255,"Never Die Alone (2004)",Crime|Drama|Thriller
+7258,"Dogville (2003)",Drama|Mystery|Thriller
+7259,"Ned Kelly (2003)",Drama
+7260,"Hellboy (2004)",Action|Adventure|Fantasy|Sci-Fi
+7261,"Home on the Range (2004)",Animation|Children|Comedy|Musical|Western
+7263,"Walking Tall (2004)",Action
+7265,"Johnson Family Vacation (2004)",Comedy
+7267,"Ella Enchanted (2004)",Comedy|Fantasy|Romance
+7270,"Shade (2003)",Crime|Drama|Thriller
+7277,"Prey for Rock & Roll (2003)",Drama|Musical
+7300,"Hangman's Curse (2003)",Horror|Mystery|Thriller
+7308,"Connie and Carla (2004)",Comedy
+7309,"Kill Bill: Vol. 2 (2004)",Action|Drama|Thriller
+7313,"Young Adam (2003)",Crime|Drama|Thriller
+7315,"13 Going on 30 (2004)",Comedy|Drama|Fantasy|Romance
+7316,"Man on Fire (2004)",Action|Crime|Drama|Mystery|Thriller
+7317,"Clifford's Really Big Movie (2004)",Animation|Children
+7320,"Godsend (2004)",Drama|Fantasy|Horror|Thriller
+7321,"Laws of Attraction (2004)",Comedy|Romance
+7322,"Mean Girls (2004)",Comedy
+7325,"Van Helsing (2004)",Action|Adventure|Fantasy|Horror
+7328,"Breakin' All the Rules (2004)",Comedy|Romance
+7330,"Carandiru (2003)",Crime|Drama
+7331,"Coffee and Cigarettes (2003)",Comedy|Drama
+7493,"Cypher (2002)",Action|Fantasy|Sci-Fi|Thriller
+7507,"Lammbock (2001)",Comedy
+7537,"Finder's Fee (2001)",Drama|Thriller
+7580,"Ken Park (2002)",Drama
+7606,"I'm with Lucy (2002)",Comedy|Romance
+7627,"Dahmer (2002)",Drama|Horror|Thriller
+7650,"Pursuit of Happiness (2001)",Romance
+7749,"Raising Helen (2004)",Comedy|Drama
+7750,"Soul Plane (2004)",Comedy
+7753,"Saved! (2004)",Comedy|Drama
+7755,"Harry Potter and the Prisoner of Azkaban (2004)",Adventure|Children|Fantasy
+7756,"Mindhunters (2004)",Action|Crime|Horror|Mystery|Thriller
+7763,"Napoleon Dynamite (2004)",Comedy
+7770,"Hope Springs (2003)",Comedy|Romance
+7815,"Super Size Me (2004)",Documentary
+7824,"Samsara (2001)",Drama|Romance
+7840,"Fear X (2003)",Mystery|Thriller
+7852,"Around the World in 80 Days (2004)",Adventure|Comedy
+7853,"I'll Sleep When I'm Dead (2003)",Crime|Drama
+7854,"Dodgeball: A True Underdog Story (2004)",Comedy
+7856,"Dear Frankie (2004)",Drama
+7857,"White Chicks (2004)",Action|Comedy|Crime
+7861,"De-Lovely (2004)",Drama|Musical
+7872,"Reconstruction (2003)",Drama|Romance
+7875,"Kopps (2003)",Action|Comedy
+7876,"Comandante (2003)",Documentary
+7877,"Undead (2003)",Horror|Sci-Fi
+7886,"Mayor of the Sunset Strip (2003)",Documentary
+7887,"Killing Me Softly (2002)",Drama|Mystery|Romance|Thriller
+7895,"Riders (2002)",Action|Crime|Thriller
+7896,"I Am Dina (2002)",Crime|Drama|Mystery|Romance
+7903,"Taxi 3 (2003)",Action|Comedy
+7920,"Fahrenheit 9/11 (2004)",Documentary
+7934,"Spider-Man 2 (2004)",Action|Adventure|Sci-Fi
+7938,"King Arthur (2004)",Action|Adventure|Drama|War
+7939,"Anchorman: The Legend of Ron Burgundy (2004)",Comedy
+7940,"Sleepover (2004)",Comedy
+7942,"I, Robot (2004)",Action|Adventure|Sci-Fi|Thriller
+7961,"Live Forever (2003)",Comedy|Documentary
+7964,"Catwoman (2004)",Action|Crime|Fantasy
+7969,"Zus & Zo (2001)",Comedy|Drama|Romance
+7972,"Disco Pigs (2001)",Drama
+8001,"Fausto 5.0 (2001)",Horror
+8006,"Hometown Legend (2002)",Drama
+8028,"To End All Wars (2001)",Action|Drama|War
+8051,"Unprecedented: The 2000 Presidential Election (2002)",Documentary
+8077,"Bon Voyage (2003)",Comedy|Drama
+8080,"Thunderbirds (2004)",Action|Adventure|Fantasy|Sci-Fi
+8082,"Garden State (2004)",Comedy|Drama|Romance
+8088,"Revengers Tragedy (2002)",Comedy|Horror
+8090,"Octane (2003)",Horror|Thriller
+8091,"PTU (2003)",Crime|Drama
+8096,"Collateral (2004)",Action|Crime|Drama|Thriller
+8097,"Little Black Book (2004)",Comedy|Romance
+8098,"Code 46 (2003)",Romance|Sci-Fi
+8107,"Danny Deckchair (2003)",Comedy|Romance
+8108,"AVP: Alien vs. Predator (2004)",Action|Horror|Sci-Fi|Thriller
+8110,"Novo (2002)",Drama
+8111,"We Don't Live Here Anymore (2004)",Drama
+8112,"Without a Paddle (2004)",Comedy
+8113,"Exorcist: The Beginning (2004)",Drama|Horror|Thriller
+8127,"Benji: Off the Leash! (2004)",Children|Drama
+8128,"Anacondas: The Hunt for the Blood Orchid (2004)",Adventure|Drama|Horror|Sci-Fi|Thriller
+8129,"Suspect Zero (2004)",Crime|Drama|Horror|Thriller
+8131,"Vanity Fair (2004)",Drama|Romance
+8133,"Paparazzi (2004)",Drama|Thriller
+8134,"Wicker Park (2004)",Drama|Romance|Thriller
+8135,"Triggermen (2002)",Comedy|Crime
+8139,"Seeing Other People (2004)",Comedy
+8157,"SuperBabies: Baby Geniuses 2 (2004)",Comedy
+8158,"Cellular (2004)",Action|Crime|Drama|Mystery|Thriller
+8159,"Resident Evil: Apocalypse (2004)",Action|Horror|Sci-Fi|Thriller
+8160,"Criminal (2004)",Comedy|Drama
+8162,"Sky Captain and the World of Tomorrow (2004)",Action|Adventure|Sci-Fi
+8163,"Wimbledon (2004)",Comedy|Romance
+8165,"Head in the Clouds (2004)",Drama|Romance|War
+8166,"First Daughter (2004)",Comedy|Romance
+8171,"Shaun of the Dead (2004)",Comedy|Horror|Romance
+8204,"Shark Tale (2004)",Animation|Children|Comedy
+8205,"Ladder 49 (2004)",Action|Drama|Thriller
+8206,"Black Cloud (2004)",Drama
+8207,"I Heart Huckabees (2004)",Comedy|Drama
+8208,"Raise Your Voice (2004)",Drama|Romance
+8210,"Around the Bend (2004)",Drama
+8211,"Primer (2004)",Drama|Mystery|Sci-Fi|Thriller
+8212,"Stage Beauty (2004)",Drama
+8214,"Team America: World Police (2004)",Action|Adventure|Animation|Comedy|Drama
+8215,"Eulogy (2004)",Comedy|Crime|Drama
+8216,"P.S. (2004)",Comedy|Drama|Fantasy|Romance
+8222,"Spinning Boris (2003)",Comedy|Drama
+8228,"Born Rich (2003)",Documentary
+8234,"Friday Night Lights (2004)",Action|Drama
+8235,"Tarnation (2003)",Documentary
+8237,"Hair Show (2004)",Comedy|Romance
+8238,"Riding the Bullet (2004)",Horror|Thriller
+8239,"Spin (2003)",Children|Drama
+8240,"Being Julia (2004)",Comedy|Drama
+8243,"Surviving Christmas (2004)",Comedy
+8245,"Alfie (2004)",Comedy|Drama|Romance
+8246,"Sideways (2004)",Adventure|Comedy|Drama|Romance
+8248,"Vera Drake (2004)",Drama
+8249,"Falling Angels (2003)",Drama
+8250,"Stella Street (2004)",Comedy
+8252,"Undertow (2004)",Crime|Drama|Thriller
+8253,"Enduring Love (2004)",Drama
+8254,"Saw (2004)",Crime|Horror|Mystery|Thriller
+8259,"Fade to Black (2004)",Documentary
+8260,"It's All About Love (2003)",Drama|Romance|Sci-Fi|Thriller
+8261,"Callas Forever (2002)",Drama
+8263,"Kinsey (2004)",Drama
+8264,"Seed of Chucky (2004)",Comedy|Horror
+8265,"After the Sunset (2004)",Action|Adventure|Comedy|Crime|Thriller
+8266,"Bridget Jones: The Edge of Reason (2004)",Comedy|Drama|Romance
+8267,"Finding Neverland (2004)",Drama
+8269,"National Treasure (2004)",Action|Adventure|Drama|Mystery|Thriller
+8272,"Fabled (2002)",Drama|Mystery|Thriller
+8274,"Alexander (2004)",Action|Adventure|Drama|War
+8275,"Christmas with the Kranks (2004)",Children|Comedy
+8279,"I Am David (2003)",Drama
+8281,"Ocean's Twelve (2004)",Action|Comedy|Crime|Thriller
+8282,"Blade: Trinity (2004)",Action|Fantasy|Horror|Thriller
+8284,"Bush's Brain (2004)",Documentary
+8293,"Stateside (2004)",Drama
+8314,"Twist (2003)",Drama
+8315,"Control Room (2004)",Documentary|War
+8652,"2046 (2004)",Drama|Romance|Sci-Fi
+8660,"Late Night Shopping (2001)",Comedy
+8664,"Dagon (2001)",Fantasy|Horror|Mystery|Thriller
+8665,"Ripley's Game (2002)",Drama|Thriller
+8666,"Conspiracy (2001)",Drama|War
+8670,"Mockingbird Don't Sing (2001)",Drama
+8671,"Blueberry (2004)",Adventure|Western
+8672,"Shackleton's Antarctic Adventure (2001)",Documentary|IMAX
+8673,"Kairo (2001)",Horror|Mystery|Thriller
+8679,"Waterboys (2001)",Comedy
+8680,"Fubar (2002)",Comedy|Documentary
+8682,"Sex is Comedy (2002)",Comedy|Drama|Romance
+8683,"Stratosphere Girl (2004)",Drama|Mystery
+8684,"Dead End (2003)",Comedy|Horror|Mystery|Thriller
+8688,"Immortel (ad vitam) (2004)",Action|Adventure|Fantasy|Sci-Fi
+8693,"Herr Lehmann (2003)",Comedy|Drama
+8695,"Bright Young Things (2003)",Comedy|Drama
+8698,"11:14 (2003)",Mystery|Thriller
+8702,"Nicotina (2003)",Action|Comedy|Drama
+8712,"Unstoppable (2004)",Action|Adventure|Comedy|Drama|Thriller
+8723,"Ginger Snaps Back: The Beginning (2004)",Fantasy|Horror
+8726,"Millions (2004)",Children|Comedy|Crime|Drama|Fantasy
+8731,"Spanglish (2004)",Comedy|Drama|Romance
+8732,"Festival Express (2003)",Documentary|Musical
+8734,"Saints and Soldiers (2003)",War
+8737,"Open Water (2003)",Drama|Thriller
+8738,"Touch of Pink (2004)",Comedy|Drama|Romance
+8741,"Layer Cake (2004)",Action|Crime|Drama|Thriller
+8742,"Silver City (2004)",Comedy|Drama|Mystery|Thriller
+8744,"Flight of the Phoenix (2004)",Action|Adventure
+8745,"Mean Creek (2004)",Drama|Thriller
+8748,"Machuca (2004)",Crime|Drama
+8753,"She Hate Me (2004)",Comedy|Drama
+8754,"Azumi (2003)",Adventure|Drama|Fantasy|Thriller
+8755,"In My Father's Den (2004)",Drama
+8757,"Metallica: Some Kind of Monster (2004)",Documentary
+8758,"Going the Distance (2004)",Comedy
+8760,"Schultze Gets the Blues (2003)",Comedy|Drama
+8762,"DiG! (2004)",Documentary
+8764,"Word Wars (2004)",Comedy|Documentary|Drama
+8765,"When Will I Be Loved (2004)",Drama
+8768,"Casshern (2004)",Action|Drama|Fantasy|Sci-Fi
+8772,"Million Dollar Baby (2004)",Drama
+8777,"Hotel Rwanda (2004)",Drama|War
+8784,"Beyond the Sea (2004)",Drama|Musical
+8786,"In Good Company (2004)",Comedy|Drama
+8787,"Meet the Fockers (2004)",Comedy
+8791,"Fat Albert (2004)",Comedy|Fantasy
+8793,"In the Realms of the Unreal (2004)",Animation|Documentary
+8826,"Stander (2003)",Action|Crime|Drama
+8831,"Imaginary Heroes (2004)",Comedy|Drama
+8849,"Torremolinos 73 (2003)",Comedy|Drama
+8855,"This Girl's Life (2003)",Drama
+8869,"Employee of the Month (2004)",Comedy|Drama
+8873,"Everyday People (2004)",Drama
+8881,"Rosenstrasse (2003)",Drama|War
+8894,"Assisted Living (2003)",Comedy|Drama
+8899,"Uncle Nino (2003)",Comedy
+8900,"Bride & Prejudice (2004)",Comedy|Musical|Romance
+8906,"Pauly Shore Is Dead (2003)",Comedy
+8914,"Dot the I (2003)",Drama|Film-Noir|Thriller
+8918,"Travellers and Magicians (2003)",Adventure|Drama
+8919,"Zelary (2003)",Drama|Romance
+8926,"5x2 (2004)",Drama|Romance
+8933,"Gory Gory Hallelujah (2003)",Comedy|Fantasy|Horror
+8937,"Walk on Water (2004)",Drama|Thriller
+8945,"Kiss the Bride (2002)",Drama|Romance
+8958,"Blackball (2003)",Comedy|Drama
+8973,"Cube Zero (2004)",Horror|Mystery|Sci-Fi|Thriller
+8979,"Melinda and Melinda (2004)",Comedy|Drama
+8980,"Milk and Honey (2003)",Drama
+8983,"D.E.B.S. (2004)",Action|Comedy
+8985,"Incident at Loch Ness (2004)",Adventure|Comedy|Documentary
+8987,"Virginia's Run (2002)",Drama
+8992,"Woman Thou Art Loosed (2004)",Drama
+9034,"Blind Horizon (2003)",Drama|Thriller
+9064,"House of D (2004)",Drama
+9065,"Palindromes (2004)",Adventure|Comedy|Drama
+9074,"Death of a Dynasty (2003)",Comedy
+9079,"Mysterious Skin (2004)",Drama|Mystery
+9086,"Buying the Cow (2002)",Comedy|Romance
+9090,"Off the Map (2003)",Comedy|Drama
+9091,"Crackerjack (2002)",Comedy
+9102,"9 Songs (2004)",Drama|Romance
+9104,"Simon (2004)",Comedy|Drama
+9107,"Somersault (2004)",Drama
+9113,"Saving Face (2004)",Comedy|Drama|Romance
+9125,"It's All Gone Pete Tong (2004)",Comedy|Drama|Musical
+9130,"My Summer of Love (2004)",Drama|Romance
+9131,"Heights (2004)",Drama
+9134,"Saint Ralph (2004)",Comedy|Drama
+9157,"Julie Johnson (2001)",Drama
+9173,"November (2004)",Drama|Mystery
+9203,"My Date with Drew (2004)",Comedy|Documentary|Romance
+9228,"HellBent (2004)",Horror|Thriller
+9229,"G (2002)",Drama|Romance
+9266,"Darwin's Nightmare (2004)",Documentary
+9290,"Dandelion (2004)",Drama
+9291,"C.S.A.: The Confederate States of America (2004)",Comedy|Drama
+9323,"Dead Man's Shoes (2004)",Crime|Thriller
+9406,"April's Shower (2003)",Comedy|Romance
+9411,"Vinci (2004)",Comedy|Crime
+9498,"Dead Birds (2004)",Horror|War|Western
+10514,"Bad Eggs (2003)",Comedy|Thriller
+10528,"Zen Noir (2004)",Comedy|Drama|Mystery
+10630,"Much Ado About Something (2001)",Documentary
+10673,"Zona Zamfirova (2002)",Comedy|Drama

@@ -1,0 +1,558 @@
+tagId,tag
+8,1970s
+13,80s
+17,abortion
+19,action
+22,"adapted from:book"
+23,"adapted from:comic"
+24,"adapted from:game"
+25,addiction
+26,adolescence
+28,adultery
+29,adventure
+30,affectionate
+34,africa
+43,alien
+44,"alien invasion"
+45,aliens
+49,"alter ego"
+53,"alternate universe"
+54,"amazing cinematography"
+56,"american civil war"
+57,amnesia
+61,"animal movie"
+63,animated
+64,animation
+65,anime
+66,antarctica
+75,art
+77,"artificial intelligence"
+79,artistic
+80,artsy
+86,atmospheric
+87,australia
+88,australian
+89,"author:alan moore"
+92,aviation
+95,awful
+96,bad
+97,"bad acting"
+103,"bad sequel"
+104,ballet
+107,"based on a book"
+109,"based on a play"
+110,"based on a true story"
+111,"based on a tv show"
+112,"based on a video game"
+113,"based on book"
+116,basketball
+118,bdsm
+125,berlin
+127,"best war films"
+132,"big budget"
+133,biographical
+134,biography
+135,biopic
+138,bittersweet
+139,bizarre
+140,"black and white"
+141,"black comedy"
+144,blindness
+145,blood
+146,bloody
+149,bollywood
+150,bombs
+151,bond
+153,"book was better"
+154,books
+155,boring
+159,boxing
+161,brazil
+163,brilliant
+164,british
+165,"british comedy"
+169,brutality
+170,"buddy movie"
+171,"bullshit history"
+177,campy
+178,canada
+179,cancer
+180,cannibalism
+181,caper
+182,capitalism
+185,cars
+186,cartoon
+187,casino
+193,cgi
+197,cheerleading
+201,"chick flick"
+202,"child abuse"
+204,children
+207,"chris tucker"
+209,christianity
+210,christmas
+211,cia
+212,cinematography
+214,"civil war"
+215,classic
+218,claustrophobic
+220,clever
+223,clowns
+224,"coen bros"
+227,college
+229,colourful
+230,comedy
+232,"comic book"
+233,"comic book adaption"
+234,comics
+235,"coming of age"
+238,compassionate
+239,competition
+242,complicated
+244,"computer animation"
+245,"computer game"
+248,"con men"
+251,conspiracy
+255,cool
+256,corny
+261,court
+262,courtroom
+263,"courtroom drama"
+264,"crappy sequel"
+267,creepy
+268,crime
+271,"cross dressing"
+276,"cult film"
+277,"culture clash"
+278,cute
+279,cute!
+282,cynical
+283,dance
+285,dark
+286,"dark comedy"
+288,"dark hero"
+290,"dc comics"
+291,deadpan
+292,death
+293,"death penalty"
+296,depressing
+300,detective
+304,dinosaurs
+305,"directorial debut"
+307,disappointing
+309,disney
+310,"disney animated feature"
+312,disturbing
+315,documentary
+322,dragons
+323,drama
+324,dramatic
+325,dreamlike
+326,dreams
+327,dreamworks
+331,drugs
+332,dumb
+333,"dumb but funny"
+334,"dynamic cgi action"
+336,dystopia
+339,"easily confused with other movie(s) (title)"
+343,educational
+344,eerie
+350,england
+351,enigmatic
+354,"ensemble cast"
+355,entertaining
+359,epic
+360,erotic
+361,espionage
+362,"ethnic conflict"
+364,excellent
+366,"exceptional acting"
+367,exciting
+368,existentialism
+370,factual
+371,"fairy tale"
+372,"fairy tales"
+374,family
+375,"family bonds"
+377,fantasy
+378,"fantasy world"
+379,farce
+380,fascism
+383,"father daughter relationship"
+385,"father-son relationship"
+387,"feel good movie"
+388,feel-good
+397,fish
+400,football
+402,foreign
+405,france
+406,franchise
+412,friendship
+414,fun
+415,"fun movie"
+416,"funniest movies"
+417,funny
+418,"funny as hell"
+419,future
+420,futuristic
+421,gambling
+422,gangs
+424,gangsters
+425,gay
+427,geek
+428,geeks
+431,genocide
+433,german
+435,ghosts
+439,"girlie movie"
+440,glbt
+442,god
+443,"golden palm"
+445,good
+450,"good romantic comedies"
+455,goofy
+456,gore
+458,gory
+460,gothic
+462,"graphic novel"
+464,great
+466,"great cinematography"
+469,"great movie"
+470,"great music"
+471,"great soundtrack"
+475,gritty
+479,"guilty pleasure"
+482,guns
+484,hackers
+485,hacking
+489,"hannibal lecter"
+492,"harry potter"
+496,heartbreaking
+497,heartwarming
+498,heist
+501,"heroine in tight suit"
+503,"high school"
+505,hilarious
+507,"hip hop"
+508,historical
+509,history
+515,holocaust
+518,homosexuality
+521,horrible
+522,horror
+523,horses
+527,humanity
+528,humor
+529,humorous
+533,idiotic
+534,"imaginary friend"
+535,imagination
+536,"imdb top 250"
+537,immigrants
+541,india
+543,indians
+544,indie
+548,inspirational
+550,intellectual
+553,intense
+554,interesting
+556,"interracial romance"
+557,intimate
+561,"iraq war"
+562,ireland
+563,irish
+566,irreverent
+568,island
+572,italy
+573,"james bond"
+574,"jane austen"
+575,japan
+576,japanese
+577,"jay and silent bob"
+582,journalism
+586,"kick-butt women"
+587,kidnapping
+588,kids
+594,lame
+595,"las vegas"
+598,lawyers
+599,lesbian
+600,life
+601,"life & death"
+603,light
+605,"literary adaptation"
+606,literature
+608,london
+612,"los angeles"
+613,love
+614,"love story"
+615,"love triangles"
+618,lyrical
+623,magic
+629,marriage
+631,"martial arts"
+632,marvel
+634,masterpiece
+638,medieval
+639,meditative
+640,melancholic
+642,memory
+643,"memory loss"
+644,"mental hospital"
+645,"mental illness"
+647,metaphysics
+649,"middle east"
+652,mindfuck
+659,mockumentary
+661,money
+663,monster
+664,monsters
+671,"mother-son relationship"
+672,motorcycle
+673,"mountain climbing"
+674,"movie business"
+675,"movielens top pick"
+676,moving
+680,mummy
+682,murder
+684,music
+685,"music business"
+686,musical
+687,musicians
+688,mutants
+689,mystery
+691,narrated
+701,nerds
+704,"new york"
+705,"new york city"
+706,"new zealand"
+709,"no plot"
+715,nonlinear
+717,nostalgic
+718,"not as good as the first"
+719,"not funny"
+720,"notable nudity"
+721,"notable soundtrack"
+722,nuclear
+725,nudity
+726,"nudity (full frontal - brief)"
+727,"nudity (full frontal - notable)"
+728,"nudity (full frontal)"
+729,"nudity (rear)"
+730,"nudity (topless - brief)"
+731,"nudity (topless - notable)"
+732,"nudity (topless)"
+733,obsession
+734,ocean
+735,"off-beat comedy"
+741,"organized crime"
+743,"original plot"
+745,oscar
+746,"oscar (best actor)"
+747,"oscar (best actress)"
+748,"oscar (best animated feature)"
+749,"oscar (best cinematography)"
+753,"oscar (best foreign language film)"
+754,"oscar (best music - original score)"
+755,"oscar (best music - original song)"
+756,"oscar (best picture)"
+758,"oscar (best supporting actor)"
+759,"oscar (best supporting actress)"
+760,"oscar (best writing - screenplay written directly for the screen)"
+761,"oscar winner"
+762,"over the top"
+763,overrated
+767,paranoid
+770,parody
+771,passionate
+774,"period piece"
+775,"peter pan"
+776,pg
+777,pg-13
+778,"philip k. dick"
+780,philosophy
+781,photographer
+782,photography
+784,pirates
+785,pixar
+786,"pixar animation"
+788,"plot holes"
+789,"plot twist"
+792,pointless
+793,poker
+795,police
+798,political
+800,politics
+801,pornography
+802,"post apocalyptic"
+806,"powerful ending"
+807,predictable
+808,pregnancy
+809,prejudice
+811,president
+812,pretentious
+813,prison
+818,propaganda
+819,prostitution
+821,psychiatrist
+823,psychological
+824,psychology
+827,puppets
+828,queer
+829,quirky
+832,race
+835,racism
+840,realistic
+842,"reality tv"
+844,redemption
+845,reflective
+846,relationships
+847,religion
+849,remake
+850,revenge
+852,ridiculous
+855,"road trip"
+857,robbery
+861,robots
+862,"rock and roll"
+863,romance
+864,romantic
+865,"romantic comedy"
+871,sad
+872,"sad but good"
+874,"san francisco"
+875,sappy
+877,satire
+878,satirical
+881,"saturn award (best special effects)"
+882,scary
+883,scenic
+884,schizophrenia
+885,school
+886,"sci fi"
+887,sci-fi
+888,science
+889,"science fiction"
+892,scotland
+900,sentimental
+901,sequel
+903,"serial killer"
+904,series
+905,sex
+909,sexuality
+910,"sexualized violence"
+911,sexy
+913,shallow
+914,shark
+919,silly
+926,slapstick
+927,slasher
+929,slow
+935,soccer
+936,"social commentary"
+938,"sophia coppola"
+942,space
+946,"spaghetti western"
+950,special
+951,"special effects"
+952,"spelling bee"
+954,spielberg
+958,spoof
+959,sports
+961,spying
+964,"star trek"
+965,"star wars"
+966,steampunk
+968,"stoner movie"
+974,strange
+978,stupid
+979,"stupid as hell"
+980,stupidity
+982,stylized
+983,submarine
+984,suburbia
+986,"suicide attempt"
+987,"super hero"
+988,super-hero
+989,superhero
+991,supernatural
+992,"suprisingly clever"
+994,"surprise ending"
+995,surreal
+996,surrealism
+998,survival
+999,suspense
+1001,swashbuckler
+1003,sweet
+1004,"switching places"
+1007,"talking animals"
+1008,talky
+1009,tarantino
+1011,"tear jerker"
+1013,teen
+1014,"teen movie"
+1016,teenagers
+1017,teens
+1019,television
+1020,tense
+1021,"terminal illness"
+1022,terrorism
+1024,thought-provoking
+1025,thriller
+1028,"time travel"
+1029,tokyo
+1032,"too long"
+1034,torture
+1035,touching
+1037,tragedy
+1039,trains
+1040,transformation
+1043,treasure
+1044,"treasure hunt"
+1047,"true story"
+1050,"twist ending"
+1054,underrated
+1058,"unintentionally funny"
+1059,unique
+1062,"unlikely friendships"
+1065,"us history"
+1067,vampire
+1069,vampires
+1071,"very funny"
+1072,"very good"
+1073,"very interesting"
+1074,"video game"
+1075,"video game adaptation"
+1076,"video games"
+1080,"vietnam war"
+1081,"view askew"
+1084,violence
+1085,violent
+1087,"virtual reality"
+1088,virus
+1089,visceral
+1091,"visually appealing"
+1096,war
+1097,"war movie"
+1099,"waste of time"
+1100,"watch the credits"
+1102,wedding
+1103,weed
+1104,weird
+1106,werewolves
+1107,western
+1108,whimsical
+1110,wine
+1111,wistful
+1112,witch
+1114,witty
+1115,wizards
+1116,women
+1117,"working class"
+1118,workplace
+1121,"world war ii"
+1125,wuxia
+1126,wwii
+1127,zombie
+1128,zombies
