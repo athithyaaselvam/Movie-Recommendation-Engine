@@ -24,7 +24,8 @@ DATASET : Download the MovieLens+IMDB data data.
 
 PHASE 2:
 
-• Task 1:
+• TASK 1:
+
 Task 1a: Implement a program which, given a genre, identifies and reports the top-4 latent semantics/topics using ∗ PCA in TF-IDF space of tags,
 ∗ SVD in TF-IDF space of tags, and
 ∗ LDA in the space of tags.
@@ -37,4 +38,38 @@ Task 1c: Implement a program which, given an actor, finds and ranks the 10 most 
                   
 Task 1d: Implement a program which, given a movie, finds and ranks the 10 most related actors who have not acted in the movie, leveraging the given movie’s ∗ TF-IDF tag vectors,
 ∗ top-5 latent semantics (PCA, SVD, or LDA) in the space of tags.
+
+• TASK 2:
+
+Task 2a: Implement a program which 1. creates an actor-actor similarity matrix (using tag vectors),
+2. performs SVD on this actor-actor similarity matrix,
+3. reports the top-3 latent semantics, in the actor space, underlying this actor-actor similarity matrix, and
+4. partitionstheactorsinto3non-overlappinggroupsbasedontheirdegreesofmembershipstothese3semantics.
+
+Task 2b: Implement a program which 1. creates a coactor-coactor matrix based on co-acting relationships (recording the number of times two actors played acted in the same movie),
+2. performs SVD on this coactor-coactor matrix,
+3. reports the top-3 latent semantics, in the actor space, underlying this coactor-coactor matrix, and
+4. partitionstheactorsinto3non-overlappinggroupsbasedontheirdegreesofmembershipstothese3semantics.
+
+Task 2c: Implement a program which
+1. creates an actor-movie-year tensor, where the tensor contains 1 for any actor-movie-year triple if the given actor played in the stated movie and the movie was released in the stated year (the tensor contains 0 for all other triples)
+2. performs CP on this actor-movie-year tensor with target rank set to 5,
+3. reports the top-5 latent
+∗ actor ∗ movie ∗ year
+semantics underlying this tensor, and
+4. partitions
+∗ actors ∗ movies ∗ years
+into 5 non-overlapping groups based on their degree of memberships to these 5 semantics.
+
+Task 2d: Implement a program which 1. createstag-movie-ratingtensor,wherethetensorcontains1foranytag-movie-ratingtripleifthegiventagwas assigned to a movie by at least one user and the movie has received an average rating lower than or equal to the given rating value (the tensor contains 0 for all other triples)
+2. performs CP on this actor-movie-rating tensor with target rank set to 5,
+3. reports the top-5 latent semantics in terms of
+∗ tag
+∗ movie ∗ rating
+memberships underlying this tensor, and
+4. partitions
+∗ tag
+∗ movies ∗ ratings
+into 5 non-overlapping groups based on their degree of memberships to these 5 semantics.
+
                    
