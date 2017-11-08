@@ -1,4 +1,5 @@
-# Movie-Recommendation-Engine
+# Movie-Recommendation-Engine (using Graph & Vector Models) 
+
 
 PHASE 1:
 
