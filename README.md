@@ -39,14 +39,17 @@ Task 1c: Implement a program which, given an actor, finds and ranks the 10 most 
 Task 1d: Implement a program which, given a movie, finds and ranks the 10 most related actors who have not acted in the movie, leveraging the given movie’s ∗ TF-IDF tag vectors,
 ∗ top-5 latent semantics (PCA, SVD, or LDA) in the space of tags.
 
+
 • TASK 2:
 
-Task 2a: Implement a program which 1. creates an actor-actor similarity matrix (using tag vectors),
+Task 2a: Implement a program which 
+1. creates an actor-actor similarity matrix (using tag vectors),
 2. performs SVD on this actor-actor similarity matrix,
 3. reports the top-3 latent semantics, in the actor space, underlying this actor-actor similarity matrix, and
 4. partitionstheactorsinto3non-overlappinggroupsbasedontheirdegreesofmembershipstothese3semantics.
 
-Task 2b: Implement a program which 1. creates a coactor-coactor matrix based on co-acting relationships (recording the number of times two actors played acted in the same movie),
+Task 2b: Implement a program which 
+1. creates a coactor-coactor matrix based on co-acting relationships (recording the number of times two actors played acted in the same movie),
 2. performs SVD on this coactor-coactor matrix,
 3. reports the top-3 latent semantics, in the actor space, underlying this coactor-coactor matrix, and
 4. partitionstheactorsinto3non-overlappinggroupsbasedontheirdegreesofmembershipstothese3semantics.
@@ -61,7 +64,8 @@ semantics underlying this tensor, and
 ∗ actors ∗ movies ∗ years
 into 5 non-overlapping groups based on their degree of memberships to these 5 semantics.
 
-Task 2d: Implement a program which 1. createstag-movie-ratingtensor,wherethetensorcontains1foranytag-movie-ratingtripleifthegiventagwas assigned to a movie by at least one user and the movie has received an average rating lower than or equal to the given rating value (the tensor contains 0 for all other triples)
+Task 2d: Implement a program which 
+1. createstag-movie-ratingtensor,wherethetensorcontains1foranytag-movie-ratingtripleifthegiventagwas assigned to a movie by at least one user and the movie has received an average rating lower than or equal to the given rating value (the tensor contains 0 for all other triples)
 2. performs CP on this actor-movie-rating tensor with target rank set to 5,
 3. reports the top-5 latent semantics in terms of
 ∗ tag
@@ -72,4 +76,22 @@ memberships underlying this tensor, and
 ∗ movies ∗ ratings
 into 5 non-overlapping groups based on their degree of memberships to these 5 semantics.
 
-                   
+
+• TASK 3:
+
+Task 3a: Implement a program which
+1. creates an actor-actor similarity matrix (using tag vectors),
+2. given a set, S, of “seed” actors (indicating the user’s interest), identifies the 10 most related actors to the actors
+in the given seed set using Random Walk with ReStarts (RWR, or Personalized PageRank, PPR) score. See
+J.-Y. Pan, H.-J. Yang, C. Faloutsos, and P. Duygulu. Au- tomatic multimedia cross-modal correlation discovery. In KDD, pages 653658, 2004.
+
+Task 3b: Implement a program which
+1. creates a coactor-coactor matrix based on the number of movies two actors acted in together,
+2. given a set, S, of “seed” actors (indicating the user’s interest), identifies the 10 most related actors to the actors
+in the given seed set using RWR.
+
+
+• TASK 4: 
+
+Implement a program which, given all the information available about the set of movies a given user has watched, recommends the user 5 more movies to watch.
+
