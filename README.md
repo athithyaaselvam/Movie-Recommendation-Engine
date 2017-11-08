@@ -25,7 +25,9 @@ DATASET : Download the MovieLens+IMDB data data.
 PHASE 2:
 
 • Task 1:
-Task 1a: Implement a program which, given a genre, identifies and reports the top-4 latent semantics/topics using
+Task 1a: Implement a program which, given a genre, identifies and reports the top-4 latent semantics/topics using ∗ PCA in TF-IDF space of tags,
+∗ SVD in TF-IDF space of tags, and
+∗ LDA in the space of tags.
                    
 Task 1b: Implement a program which, given a genre, identifies and reports the top-4 latent semantics/topics using
                     
