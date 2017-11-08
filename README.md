@@ -25,18 +25,18 @@ DATASET : Download the MovieLens+IMDB data data.
 PHASE 2:
 
 • Task 1:
-          – Task 1a: Implement a program which, given a genre, identifies and reports the top-4 latent semantics/topics using
+Task 1a: Implement a program which, given a genre, identifies and reports the top-4 latent semantics/topics using
                     ∗ PCA in TF-IDF space of tags,
                     ∗ SVD in TF-IDF space of tags, and
                     ∗ LDA in the space of tags.
-          – Task 1b: Implement a program which, given a genre, identifies and reports the top-4 latent semantics/topics using
+Task 1b: Implement a program which, given a genre, identifies and reports the top-4 latent semantics/topics using
                     ∗ PCA in TF-IDF space of actors,
                     ∗ SVD in TF-IDF space of actors, and 
                     ∗ LDA in the space of actors.        
-          – Task 1c: Implement a program which, given an actor, finds and ranks the 10 most similar actors by comparing                            actors’
+Task 1c: Implement a program which, given an actor, finds and ranks the 10 most similar actors by comparing actors
                     ∗ TF-IDF tag vectors,
                     ∗ top-5 latent semantics (PCA, SVD, or LDA) in the space of tags.
-          – Task 1d: Implement a program which, given a movie, finds and ranks the 10 most related actors who have not acted
+Task 1d: Implement a program which, given a movie, finds and ranks the 10 most related actors who have not acted
                      in the movie, leveraging the given movie’s
                     ∗ TF-IDF tag vectors,
                     ∗ top-5 latent semantics (PCA, SVD, or LDA) in the space of tags.
