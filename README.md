@@ -8,9 +8,9 @@
 
 • Task 4: Implement a program which considers two genres, g1 and g2, and explains in what ways the g1 differs from g2. You               will consider three models, TF-IDF-DIFF, P-DIFF1, P-DIFF2:
           
-          – In the TF-IDF-DIFF model, you will consider the set of movies for the given genre to compute TF, but the set,                 movies(g1) ∪ movies(g2), of all movies in genres, g1 and g2, to compute IDF.
+          – In the TF-IDF-DIFF model, you will consider the set of movies for the given genre to compute TF, but the set,      movies(g1) ∪ movies(g2), of all movies in genres, g1 and g2, to compute IDF.
 
-          – In the P-DIFF1 model, you will identify the weight, wi,j, of the tag tj for genre g1 relying on a probabilistic               feedback mechanism 
+          – In the P-DIFF1 model, you will identify the weight, wi,j, of the tag tj for genre g1 relying on a probabilistic   feedback mechanism 
         
 DATASET : Download the MovieLens+IMDB data data.
           – mlmovies(movieId,movieName,genres)
