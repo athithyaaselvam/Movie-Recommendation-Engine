@@ -1,6 +1,7 @@
 # Movie-Recommendation-Engine
 
-#Phase1
+PHASE 1:
+
 • Task 1: Implement a program which considers all the movies an actor played and creates and stores a weighted tag vector for           each actor using (time-weighted) TF as well as TF-IDF models. When combining tag vectors under TF or TF-IDF models,           newer tags should be given higher weight than older tags. Similarly, movies where the given actor appears with a               lower rank should be given a relatively higher weight.
 
 • Task 2: Implement a program which considers all movies of a given genre to create a combined tag vector for the genre. When           combining tag vectors under TF or TF-IDF models, newer tags should be given higher weight than older tags.
