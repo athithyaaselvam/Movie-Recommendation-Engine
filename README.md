@@ -132,7 +132,7 @@
 
 # PHASE 3:
 
-**• Task 1:** 
+**Task 1:** 
 
           Implement a program which given all the information available about the sequence of movies a given user has watched, recommends the user 5 more movies to watch,
           – Task 1a: using SVD or PCA.
@@ -156,11 +156,11 @@
           – Implement similar movie search using this index structure: for a given movie and r, outputs the r most similar movies (also outputs the numbers of unique and overall number of movies considered).
 The result interface should also allow the movie to provide positive and/or negative feedback for the returned movie returned by the system to enable Task 4.
 
-**• Task 4:** 
+**Task 4:** 
   
             NN-based relevance feedback: Implement a r-nearest neighbor based relevance feedback algorithm to improve the nearest neighbor matches. The system should output the revisions it suggests in the relative importances of different parts of the query.
 
-**• Task 5: **
+**Task 5:**
   
           Movie classification: 
           Implement
