@@ -1,7 +1,7 @@
 # Movie-Recommendation-Engine (using Graph & Vector Models) 
 
 
-**PHASE 1:**
+# PHASE 1:
 
 **• Task 1:** 
           Implement a program which considers all the movies an actor played and creates and stores a weighted tag vector for           each actor using (time-weighted) TF as well as TF-IDF models. When combining tag vectors under TF or TF-IDF models,           newer tags should be given higher weight than older tags. Similarly, movies where the given actor appears with a               lower rank should be given a relatively higher weight.
@@ -28,7 +28,7 @@
           – imdb-actor-info (actorId, name, gender)
           – mlusers(userId)
 
-**PHASE 2:**
+# PHASE 2:
 
 **• TASK 1:**
 
@@ -130,3 +130,40 @@
 – imdb-actor-info (actorId, name, gender) – imdb_actor_info (pandas library)
 – mlusers(userId) – mlusers (pandas library)
 
+# PHASE 3:
+
+**• Task 1:** 
+
+          Implement a program which given all the information available about the sequence of movies a given user has watched, recommends the user 5 more movies to watch,
+          – Task 1a: using SVD or PCA.
+          – Task 1b: using LDA.
+          – Task 1c: using tensor decomposition.
+          – Task 1d: using Personalized PageRank.
+          – Task 1e: using a measure that combines all the above.
+          The order in which the movies are watched and the recency shoudl also be taken into account.
+          The result interface should also allow the user to provide positive and/or negative feedback for the ranked results returned by the system to enable Task 2.
+
+**Task 2:**
+
+          Relevance feedback task (content): Implement a probabilistic relevance feedback system to improve the accuracy of the matches from Tasks 1a through 1e. The system should also output the revisions it suggests. 
+          User feedback is than taken into account (either by revising the query or by re-ordering the results as appropriate) and a new set of ranked results are returned.
+          
+**Task 3:**
+
+          Multi-dimensional index structures and nearest neighbor search task:
+          – Implement a program which maps each movie in the system into a 500 dimensional latent space.
+          – ImplementaLocalitySensitiveHashing(LSH)tool,whichtakesasinput(a)thenumberoflayers,L,(b)thenumber of hashes per layer, k, and (c) a set of movie vectors as input and creates an in-memory index structure containing the given set of vectors. 
+          – Implement similar movie search using this index structure: for a given movie and r, outputs the r most similar movies (also outputs the numbers of unique and overall number of movies considered).
+The result interface should also allow the movie to provide positive and/or negative feedback for the returned movie returned by the system to enable Task 4.
+
+**• Task 4:** 
+  
+            NN-based relevance feedback: Implement a r-nearest neighbor based relevance feedback algorithm to improve the nearest neighbor matches. The system should output the revisions it suggests in the relative importances of different parts of the query.
+
+**• Task 5: **
+  
+          Movie classification: 
+          Implement
+          – a r-nearest neighbor based classification algorithm – a decision tree based classification algorithm, and – an n-ary SVM based classification algorithm
+          which takes a set of labeled movies and associates a label to the rest of the movies in the database.
+          Every result should be presented in decreasing order of weights!
