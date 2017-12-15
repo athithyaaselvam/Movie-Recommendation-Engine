@@ -1,0 +1,12 @@
+
+-------READ ME FILE-------
+Task 1, 2
+	P31a-P31e.py - runs task 1 and 2. 
+
+Task 3, 4
+	lsh.py - runs task 3 and 4 Latentic Semantic Hashing and NN-relevance feedback
+
+Task 5
+	5a.py - r-nearest neighbor based classification algorithm
+	5b.py - decision tree based classification algorithm
+	5c.py - n-ary SVM based classification algorithm
